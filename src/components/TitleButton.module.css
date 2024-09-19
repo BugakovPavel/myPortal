@@ -1,0 +1,17 @@
+.titleButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  cursor: pointer;
+  background-color: #4296d4;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  border-radius: 10px;
+}
+
+.titleButton img {
+  filter: brightness(0) invert(1);
+  margin-right: 8px;
+}

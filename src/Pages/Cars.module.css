@@ -1,0 +1,12 @@
+.carsBody {
+  text-align: left;
+  height: 100vh;
+  background-color: #f8f9fe;
+  margin: 5px 20px 0px 85px;
+  border-radius: 10px;
+}
+.containerTab {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 10px;
+}

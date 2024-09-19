@@ -1,0 +1,11 @@
+.mapBody {
+  height: calc(100vh - 40px);
+  margin: 20px 20px 20px 85px;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}

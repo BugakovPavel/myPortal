@@ -1,0 +1,48 @@
+.tableWrapper table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.tableWrapper table th,
+table td {
+  text-align: center;
+  padding: 5px;
+}
+
+.tableWrapper table tr:nth-child(even) {
+  background-color: #f8f9fe;
+}
+
+.tableWrapper table tr:hover {
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+.tableWrapper table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #f8f9fe;
+  color: rgb(39, 116, 171);
+  font-size: 1.1rem;
+}
+.tableWrapper table td {
+  font-size: 0.9rem;
+  width: 10%;
+}
+.container input {
+  text-align: center;
+  width: auto;
+  height: 25px;
+  font-size: 1.3rem;
+  padding: 5px 0px 5px 0px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  margin: 0px 15px 20px 0px;
+}
+.tableWrapper {
+  text-align: left;
+}

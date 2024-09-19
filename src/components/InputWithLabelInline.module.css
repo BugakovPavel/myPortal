@@ -1,0 +1,29 @@
+.inputContainerInline {
+  height: 40px;
+  display: flex;
+  background-color: #f8f9fe;
+  align-items: center;
+  border-radius: 10px;
+  padding-left: 20px;
+  margin-top: 20px;
+}
+
+.labelInline {
+  margin-right: 8px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.inputInline {
+  width: 100%;
+  border: none;
+  background-color: #f8f9fe;
+}
+.selectModal {
+  width: 100%;
+  border: none;
+  background-color: #f8f9fe;
+  margin-right: 20px;
+  cursor: pointer;
+  height: 100%;
+}

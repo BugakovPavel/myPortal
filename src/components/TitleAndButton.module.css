@@ -1,0 +1,17 @@
+.labelText {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.titleButtonContainer {
+  display: flex;
+  gap: 10px;
+}
